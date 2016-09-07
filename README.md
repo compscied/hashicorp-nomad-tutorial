@@ -1,11 +1,11 @@
-# hashicorp-nomad-tutorial
+# Hashicorp Nomad Tutorial
 
 What is Nomad?
 - Nomad is cluster manager and scheduler designed for microservices and batch workloads. Nomad is distributed, highly available, and scales to thousands of nodes spanning multiple datacenters and regions.
 - Nomad provides a common workflow to deploy applications across an infrastructure. Developers use a declarative job specification to define how an application should be deployed and the resources it requires (CPU, memory, disk). Nomad accepts these jobs and finds available resources to run them. The scheduling algorithm ensures all constraints are satisfied, and packs as many applications on a host as possible to optimize resource utilization. Additionally, Nomad supports virtualized, containerized, or standalone applications running on all major operating systems giving it the flexibility to support a broad range of workloads.
  
 Let's start first by downloading nomad
-- https://www.consul.io/downloads.html
+- https://www.nomadproject.io/downloads.html
 
 Unzip
 - unzip nomad*.zip
