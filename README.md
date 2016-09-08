@@ -48,3 +48,6 @@ Available commands are:
 
 **Next lets install vagrant**
 https://www.vagrantup.com/docs/installation/
+
+you might need to install virtualbox you have not already
+https://www.virtualbox.org/wiki/Downloads
